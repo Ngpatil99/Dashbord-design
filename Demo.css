@@ -1,0 +1,125 @@
+.main-sidebar {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 1070px;
+}
+
+.main-navbar {
+    list-style: none;
+}
+
+.main-navbar li {
+    margin: 0px 10px;
+    color: grey;
+    font-weight:500;
+}
+
+.main-icon li {
+    list-style: none;
+    margin: 0px 10px;
+}
+
+.profile img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+
+}
+
+.profile-count {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(244, 239, 239);
+    border-radius: 50%;
+    text-align: center;
+}
+
+.main-taskbar {
+
+    /* border: 1px solid black; */
+    padding: 8px 0px;
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    background-color: white;
+
+}
+
+.main-icon-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-icon-list div {
+    height: 40px;
+    width: 40px;
+
+    border-radius: 10px;
+    background-color: rgb(223, 215, 215);
+    text-align: center;
+
+}
+
+
+
+.card {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: none;
+}
+
+.appli-icon {
+    background-image: linear-gradient(#4E9FF8, #007AFF);
+    height: 31px;
+    width: 31px;
+    border-radius: 10px;
+}
+
+.Appli-name-section {
+    display: flex;
+
+}
+
+.Appli-name-section img {
+
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid gray;
+    padding: 4px;
+}
+
+.Appli-name-section i {
+    color: #007AFF;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.notifi-count {
+    background-color: #e9ecf0;
+    color: #007AFF;
+    font-weight: bold;
+    border-radius: 50%;
+    text-align: center;
+    padding: 5px, 8.5px, 5px, 8.5px;
+    height: 30px;
+    width: 30px;
+}
+.aside-icon img{
+ height: 20px;
+  width: 20px;
+}
+.task_border div{
+    background-color: #fff;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    margin: 5px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+border-radius: 5px;
+
+}
+.task_border div img{
+    padding-top: 10px;
+}
+.card-title{
+    font-size: 15px;
+    font-weight: bold;
+}
