@@ -38,7 +38,7 @@
     /* border: 1px solid black; */
     padding: 10px 0px;
     border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.03) 0px 6px 24px 0px, rgba(0, 0, 0, 0.03) 0px 0px 0px 1px;  
+    box-shadow: rgba(0, 0, 0, 0.03) 0px 6px 24px 0px, rgba(0, 0, 0, 0.03) 0px 0px 0px 1px;
     background-color: white;
 
 }
@@ -115,7 +115,7 @@
     text-align: center;
     margin: 5px;
     /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
-    box-shadow: rgba(0, 0, 0, 0.03) 0px 6px 24px 0px, rgba(0, 0, 0, 0.03) 0px 0px 0px 1px;  
+    box-shadow: rgba(0, 0, 0, 0.03) 0px 6px 24px 0px, rgba(0, 0, 0, 0.03) 0px 0px 0px 1px;
 
     border-radius: 5px;
 
@@ -129,3 +129,17 @@
     font-size: 15px;
     font-weight: bold;
 }
+
+.main-taskbar h6 {
+    color: #606C80;
+}
+
+.card-body p {
+    color: #606C80;
+    font-weight: 600;
+}
+
+#field4::-webkit-input-placeholder {
+    color: #98A2B2;
+    font-weight: 600
+    ;}
