@@ -141,5 +141,11 @@
 
 #field4::-webkit-input-placeholder {
     color: #98A2B2;
-    font-weight: 600
-    ;}
+    font-weight: 600;
+}
+
+hr {
+background-color: #E9EBF0
+;
+    
+}
